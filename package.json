@@ -22,7 +22,7 @@
   "dependencies": {
     "codeceptjs": "*",
     "nightmare": "^2.5.2",
-    "nightmare-upload": "^0.1.1",
+    "nightmare-upload": "^0.1.1"
   },
   "license": "MIT",
   "homepage": "http://codecept.io"
