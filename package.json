@@ -1,0 +1,29 @@
+{
+  "name": "codeceptjs-nightmare",
+  "version": "1.0.0",
+  "description": "CodeceptJS with Nightmare installed",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DavertMik/codeceptjs-nightmare.git"
+  },
+  "keywords": [
+    "codeceptjs",
+    "nightmare"
+  ],
+  "bin": {
+    "codeceptjs": "./node_modules/.bin/codeceptjs"
+  },    
+  "author": {
+    "name": "DavertMik",
+    "email": "davert@codegyre.com",
+    "url": "http://codegyre.com"
+  },
+  "dependencies": {
+    "codeceptjs": "*",
+    "nightmare": "^2.5.2",
+    "nightmare-upload": "^0.1.1",
+  },
+  "license": "MIT",
+  "homepage": "http://codecept.io"
+}
