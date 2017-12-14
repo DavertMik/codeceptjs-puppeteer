@@ -1,9 +1,9 @@
-## CodeceptJS with Nightmare
+## CodeceptJS with Puppeteer
 
-Meta-package which installs [CodeceptJS](http://codecept.io) with Nightmare.
+Meta-package which installs [CodeceptJS](http://codecept.io) with Puppeteer.
 
 ```
-npm i codeceptjs-nightmare
+npm i codeceptjs-puppeteer
 ```
 
 Run codeceptjs:
@@ -12,5 +12,5 @@ Run codeceptjs:
 ./node_modules/.bin/codeceptjs init
 ```
 
-And choose `Nightmare` helper from the list.
+And choose `Puppeteer` helper from the list.
 
